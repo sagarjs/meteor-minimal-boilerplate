@@ -6,6 +6,7 @@ Inspired by Differential's <b><a href="https://github.com/Differential/meteor-bo
 ## Includes:
 <ul>
   <li> Iron:Router (Package) </li>
+  <li> zimme:active-route (Package) </li>
   <li> Materialize theme (CSS & JS) </li>
 </ul>
 
